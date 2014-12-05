@@ -1,2 +1,3 @@
 g2git-repo
 ==========
+this is my first GIT repo, set up on Dec 4, 2014. Looking forward to learning a lot....
